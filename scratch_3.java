@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 class Scratch {
     public static void main(String[] args) {
+        System.out.println("try to make some more changes");
         //Scanner scr= new Scanner(System.in);
         //int n= scr.nextInt();
         /*int[] arr={3,2,4,2,7,6,2};

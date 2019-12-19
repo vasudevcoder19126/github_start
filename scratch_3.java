@@ -12,6 +12,7 @@ class Scratch {
             System.out.print(value + " ");
         }*/
         int[] arr={13.324,343,4,413,1,432,234,12};
+        System.out.print("more changes");
     
         int[] sorted=rec20(arr,0,arr.length-1);
         for(int val:sorted){

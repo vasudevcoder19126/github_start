@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 class Scratch {
     public static void main(String[] args) {
-        System.out.println("try to make some more changes");
+        System.out.println("try to make some more changes")
         //Scanner scr= new Scanner(System.in);
         //int n= scr.nextInt();
         /*int[] arr={3,2,4,2,7,6,2};
@@ -11,7 +11,8 @@ class Scratch {
         for (int value : ar) {
             System.out.print(value + " ");
         }*/
-        int[] arr={10,20,14,12,10,2,18,15};
+        int[] arr=new int[8];
+        arr={12,23,3124,,4,1,34,123,23};
         int[] sorted=rec20(arr,0,arr.length-1);
         for(int val:sorted){
             System.out.print(val+" ");

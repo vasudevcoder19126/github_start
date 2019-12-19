@@ -18,6 +18,8 @@ class Scratch {
         for(int val:sorted){
             System.out.print(val+" ");
         }
+        System.out.print("changes for long time");
+
         //String str = "abc";
         //int count = rec17_3(0, 10);
         //System.out.println(count);
